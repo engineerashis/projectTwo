@@ -1,0 +1,28 @@
+.container{
+  width: 1170px;
+  margin: 0 auto;
+  background: rgb(204, 129, 129);
+  box-shadow: -2px -4px 5px rgb(197, 192, 202),  4px 5px rgb(2px187, 187, 172);
+}
+h1{
+  
+
+  text-align: justify;
+  /* text-transform: lowercase;
+  text-indent: 100px;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-spacing: 1;
+  white-space: normal;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff; ; */
+  
+  font-size: 40px;
+  font-weight: 400;
+  font-family: 'Island Moments', cursive;
+  font-family: 'The Nautigal', cursive;
+  
+}
+a{
+  color: rgb(255, 196, 0);
+  text-decoration: none;
+}
